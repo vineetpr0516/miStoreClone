@@ -45,5 +45,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {
+    "netlify-cli": "^15.8.0"
+  }
 }
