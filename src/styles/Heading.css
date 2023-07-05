@@ -1,0 +1,19 @@
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading div{
+    background-color: black;
+    height: 1px;
+    width: 30vw;
+}
+
+.heading p{
+    color: grey;
+    margin: 3vmax;
+    font-size: 2vmax;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100%;
+}

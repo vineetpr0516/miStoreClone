@@ -1,0 +1,8 @@
+.navOptions{
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+    padding: 2vamx;
+    z-index: 1000;
+
+}
